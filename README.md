@@ -1,3 +1,3 @@
 # UdemigSchl
 
-<img src="./images/SCHOLL.gif" alt="">
+<img src="./images/scholl.gif" alt="">
